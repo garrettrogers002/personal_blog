@@ -1,0 +1,36 @@
+body {
+    background-color: #6B6570;
+}
+#hero-img {
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    border: 10px solid black;
+}
+nav a {
+    text-align: center;
+    text-decoration: none;
+    color: #A8BA9A;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+}
+nav a:hover {
+    background-color: aqua;
+    color: black;
+}
+nav {
+    text-align: center;
+    margin: 20px auto;
+}
+.image_divide {
+    text-align: center;
+}
+.travels {
+    display: inline;
+    border: 5px dotted #4A314D;
+    margin: 50px;
+    width: 20%;
+    border-radius: 40%;
+}

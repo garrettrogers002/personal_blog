@@ -1,0 +1,5 @@
+licorice: #1A090D
+english violet: #4A314D
+dim gray: #6B6570
+sage: #A8BA9A
+light green: #ACE894
